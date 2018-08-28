@@ -1,0 +1,7 @@
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckersLogic\bin\Debug\CheckersLogic.dll.config
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckersLogic\obj\Debug\CheckersLogic.csprojAssemblyReference.cache
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckersLogic\obj\Debug\CheckersLogic.dll
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckersLogic\obj\Debug\CheckersLogic.pdb

@@ -1,0 +1,13 @@
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckerWindowsUI\bin\Debug\CheckerWindowsUI.exe.config
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckerWindowsUI\bin\Debug\CheckerWindowsUI.exe
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckerWindowsUI\bin\Debug\CheckerWindowsUI.pdb
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckerWindowsUI\bin\Debug\CheckersLogic.dll
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckerWindowsUI\bin\Debug\CheckersLogic.pdb
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckerWindowsUI\bin\Debug\CheckersLogic.dll.config
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckerWindowsUI\obj\Debug\CheckerWindowsUI.csprojAssemblyReference.cache
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckerWindowsUI\obj\Debug\CheckerWindowsUI.Properties.Resources.resources
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckerWindowsUI\obj\Debug\CheckerWindowsUI.csproj.GenerateResource.cache
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckerWindowsUI\obj\Debug\CheckerWindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckerWindowsUI\obj\Debug\CheckerWindowsUI.csproj.CopyComplete
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckerWindowsUI\obj\Debug\CheckerWindowsUI.exe
+C:\Users\edens\Desktop\MyCodes\CheckersGame\CheckerWindowsUI\obj\Debug\CheckerWindowsUI.pdb
